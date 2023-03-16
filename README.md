@@ -1,2 +1,2 @@
 # kitty-config
-My dotfiles from Terminal Kitty
+Dotfiles from Terminal Kitty
